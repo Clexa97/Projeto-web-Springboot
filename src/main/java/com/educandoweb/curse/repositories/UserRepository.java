@@ -1,4 +1,4 @@
-package com.educandoweb.curse.reposiories;
+package com.educandoweb.curse.repositories;
 
 import com.educandoweb.curse.entites.User;
 import org.springframework.data.jpa.repository.JpaRepository;
